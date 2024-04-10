@@ -1,0 +1,15 @@
+header{
+    max-width: 144rem;
+    margin: auto;
+    padding: 0 1rem;
+    
+    
+}
+header .c1{
+    height:25.3rem;
+    width:1440px;
+    background-color: black;
+    margin: auto;
+    border: 2px solid blue;
+
+}
